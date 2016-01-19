@@ -1,0 +1,1 @@
+The Complete Mangos Web Interface, bring unity to using a Mangos server, you will have multiple themes for different occasion, just like the official site, and many options to add, such as forums, FAQs, support pages, and much more.
